@@ -75,7 +75,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions or inquiries, please contact me at [your-email@example.com].
+If you have any questions or inquiries, please contact me at [sanjaygurjar741@gmail.com].
 
 ---
 
@@ -83,4 +83,3 @@ Thank you for visiting the AI Projects Repository. Stay tuned for exciting AI pr
 
 ```
 
-Feel free to customize this template to better suit your specific needs and preferences.
